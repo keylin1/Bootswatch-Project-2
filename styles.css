@@ -1,0 +1,56 @@
+header{
+    margin-bottom: 40px;
+}
+
+img{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+nav a{
+    text-decoration: none;
+    display: block;
+    font-weight: 500;
+    margin-left: -25px;
+}
+
+nav{
+    position: sticky;
+    top: 75;
+    z-index: 100;
+}
+
+a {
+    text-decoration: none;
+  }
+  
+ul{
+    list-style: none;
+    border-radius: 15px;
+}
+
+.col-sm-9{
+    margin: 45 0 45 0;
+}
+
+h5{
+    font-weight: 700 ;
+}
+
+p{
+    color: #121212;
+}
+
+.card-body{
+    border-radius: 20px;
+}
+
+.card-body h5{
+    font-weight: 700 ;
+}
+
+.btn-primary:hover{
+    background-color: white;
+    color: #121212;
+}
