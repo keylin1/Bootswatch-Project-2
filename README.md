@@ -1,5 +1,5 @@
 # Bootswatch-Project-2
-###aka. Dream Diary ✨
+### aka. Dream Diary ✨
 
 ### About
 This project is made for my MMART167 class as HTML, CSS, and Bootstrap practice. The contents contain articles about my dreams rewritten into scripts. The entries are categorized and presented as snippets from different dream scenarios.
